@@ -1,0 +1,314 @@
+2012-10-31 14:32:24 Notice: Notice (8): Undefined index: u in [/home/xavier/project/github-project/medical-journal/mjapi/app/Controller/UserController.php, line 23]
+Trace:
+UserController::authen() - APP/Controller/UserController.php, line 23
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 485
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 186
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 161
+[main] - APP/webroot/index.php, line 92
+
+2012-10-31 14:32:24 Notice: Notice (8): Undefined index: p in [/home/xavier/project/github-project/medical-journal/mjapi/app/Controller/UserController.php, line 24]
+Trace:
+UserController::authen() - APP/Controller/UserController.php, line 24
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 485
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 186
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 161
+[main] - APP/webroot/index.php, line 92
+
+2012-10-31 14:32:38 Notice: Notice (8): Undefined index: u in [/home/xavier/project/github-project/medical-journal/mjapi/app/Controller/UserController.php, line 21]
+Trace:
+UserController::authen() - APP/Controller/UserController.php, line 21
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 485
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 186
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 161
+[main] - APP/webroot/index.php, line 92
+
+2012-10-31 14:32:38 Notice: Notice (8): Undefined index: p in [/home/xavier/project/github-project/medical-journal/mjapi/app/Controller/UserController.php, line 22]
+Trace:
+UserController::authen() - APP/Controller/UserController.php, line 22
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 485
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 186
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 161
+[main] - APP/webroot/index.php, line 92
+
+2012-10-31 14:33:43 Notice: Notice (8): Undefined index: u in [/home/xavier/project/github-project/medical-journal/mjapi/app/Controller/UserController.php, line 21]
+Trace:
+UserController::authen() - APP/Controller/UserController.php, line 21
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 485
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 186
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 161
+[main] - APP/webroot/index.php, line 92
+
+2012-10-31 14:33:43 Notice: Notice (8): Undefined index: p in [/home/xavier/project/github-project/medical-journal/mjapi/app/Controller/UserController.php, line 22]
+Trace:
+UserController::authen() - APP/Controller/UserController.php, line 22
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 485
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 186
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 161
+[main] - APP/webroot/index.php, line 92
+
+2012-10-31 14:33:43 Notice: Notice (8): Undefined index: u in [/home/xavier/project/github-project/medical-journal/mjapi/app/Controller/UserController.php, line 21]
+Trace:
+UserController::authen() - APP/Controller/UserController.php, line 21
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 485
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 186
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 161
+[main] - APP/webroot/index.php, line 92
+
+2012-10-31 14:33:43 Notice: Notice (8): Undefined index: p in [/home/xavier/project/github-project/medical-journal/mjapi/app/Controller/UserController.php, line 22]
+Trace:
+UserController::authen() - APP/Controller/UserController.php, line 22
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 485
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 186
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 161
+[main] - APP/webroot/index.php, line 92
+
+2012-10-31 14:33:44 Notice: Notice (8): Undefined index: u in [/home/xavier/project/github-project/medical-journal/mjapi/app/Controller/UserController.php, line 21]
+Trace:
+UserController::authen() - APP/Controller/UserController.php, line 21
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 485
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 186
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 161
+[main] - APP/webroot/index.php, line 92
+
+2012-10-31 14:33:44 Notice: Notice (8): Undefined index: p in [/home/xavier/project/github-project/medical-journal/mjapi/app/Controller/UserController.php, line 22]
+Trace:
+UserController::authen() - APP/Controller/UserController.php, line 22
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 485
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 186
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 161
+[main] - APP/webroot/index.php, line 92
+
+2012-10-31 14:33:45 Notice: Notice (8): Undefined index: u in [/home/xavier/project/github-project/medical-journal/mjapi/app/Controller/UserController.php, line 21]
+Trace:
+UserController::authen() - APP/Controller/UserController.php, line 21
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 485
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 186
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 161
+[main] - APP/webroot/index.php, line 92
+
+2012-10-31 14:33:45 Notice: Notice (8): Undefined index: p in [/home/xavier/project/github-project/medical-journal/mjapi/app/Controller/UserController.php, line 22]
+Trace:
+UserController::authen() - APP/Controller/UserController.php, line 22
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 485
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 186
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 161
+[main] - APP/webroot/index.php, line 92
+
+2012-10-31 14:33:54 Notice: Notice (8): Undefined index: u in [/home/xavier/project/github-project/medical-journal/mjapi/app/Controller/UserController.php, line 21]
+Trace:
+UserController::authen() - APP/Controller/UserController.php, line 21
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 485
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 186
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 161
+[main] - APP/webroot/index.php, line 92
+
+2012-10-31 14:33:54 Notice: Notice (8): Undefined index: p in [/home/xavier/project/github-project/medical-journal/mjapi/app/Controller/UserController.php, line 22]
+Trace:
+UserController::authen() - APP/Controller/UserController.php, line 22
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 485
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 186
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 161
+[main] - APP/webroot/index.php, line 92
+
+2012-10-31 14:33:57 Notice: Notice (8): Undefined index: u in [/home/xavier/project/github-project/medical-journal/mjapi/app/Controller/UserController.php, line 21]
+Trace:
+UserController::authen() - APP/Controller/UserController.php, line 21
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 485
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 186
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 161
+[main] - APP/webroot/index.php, line 92
+
+2012-10-31 14:33:57 Notice: Notice (8): Undefined index: p in [/home/xavier/project/github-project/medical-journal/mjapi/app/Controller/UserController.php, line 22]
+Trace:
+UserController::authen() - APP/Controller/UserController.php, line 22
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 485
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 186
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 161
+[main] - APP/webroot/index.php, line 92
+
+2012-10-31 14:34:03 Notice: Notice (8): Undefined index: u in [/home/xavier/project/github-project/medical-journal/mjapi/app/Controller/UserController.php, line 21]
+Trace:
+UserController::authen() - APP/Controller/UserController.php, line 21
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 485
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 186
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 161
+[main] - APP/webroot/index.php, line 92
+
+2012-10-31 14:34:03 Notice: Notice (8): Undefined index: p in [/home/xavier/project/github-project/medical-journal/mjapi/app/Controller/UserController.php, line 22]
+Trace:
+UserController::authen() - APP/Controller/UserController.php, line 22
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 485
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 186
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 161
+[main] - APP/webroot/index.php, line 92
+
+2012-10-31 14:34:52 Notice: Notice (8): Undefined index: u in [/home/xavier/project/github-project/medical-journal/mjapi/app/Controller/UserController.php, line 21]
+Trace:
+UserController::authen() - APP/Controller/UserController.php, line 21
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 485
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 186
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 161
+[main] - APP/webroot/index.php, line 92
+
+2012-10-31 14:34:52 Notice: Notice (8): Undefined index: p in [/home/xavier/project/github-project/medical-journal/mjapi/app/Controller/UserController.php, line 22]
+Trace:
+UserController::authen() - APP/Controller/UserController.php, line 22
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 485
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 186
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 161
+[main] - APP/webroot/index.php, line 92
+
+2012-10-31 14:34:53 Notice: Notice (8): Undefined index: u in [/home/xavier/project/github-project/medical-journal/mjapi/app/Controller/UserController.php, line 21]
+Trace:
+UserController::authen() - APP/Controller/UserController.php, line 21
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 485
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 186
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 161
+[main] - APP/webroot/index.php, line 92
+
+2012-10-31 14:34:53 Notice: Notice (8): Undefined index: p in [/home/xavier/project/github-project/medical-journal/mjapi/app/Controller/UserController.php, line 22]
+Trace:
+UserController::authen() - APP/Controller/UserController.php, line 22
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 485
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 186
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 161
+[main] - APP/webroot/index.php, line 92
+
+2012-10-31 14:39:07 Notice: Notice (8): Undefined variable: req in [/home/xavier/project/github-project/medical-journal/mjapi/app/Controller/UserController.php, line 33]
+Trace:
+UserController::authen() - APP/Controller/UserController.php, line 33
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 485
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 186
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 161
+[main] - APP/webroot/index.php, line 92
+
+2012-10-31 14:39:07 Notice: Notice (8): Undefined variable: msg in [/home/xavier/project/github-project/medical-journal/mjapi/app/Controller/UserController.php, line 33]
+Trace:
+UserController::authen() - APP/Controller/UserController.php, line 33
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 485
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 186
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 161
+[main] - APP/webroot/index.php, line 92
+
+2012-10-31 14:39:07 Notice: Notice (8): Undefined variable: results in [/home/xavier/project/github-project/medical-journal/mjapi/app/View/User/authen.ctp, line 4]
+Trace:
+include - APP/View/User/authen.ctp, line 4
+View::_evaluate() - CORE/Cake/View/View.php, line 921
+View::_render() - CORE/Cake/View/View.php, line 884
+View::render() - CORE/Cake/View/View.php, line 476
+Controller::render() - CORE/Cake/Controller/Controller.php, line 956
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 161
+[main] - APP/webroot/index.php, line 92
+
+2012-10-31 14:39:09 Notice: Notice (8): Undefined variable: req in [/home/xavier/project/github-project/medical-journal/mjapi/app/Controller/UserController.php, line 33]
+Trace:
+UserController::authen() - APP/Controller/UserController.php, line 33
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 485
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 186
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 161
+[main] - APP/webroot/index.php, line 92
+
+2012-10-31 14:39:09 Notice: Notice (8): Undefined variable: msg in [/home/xavier/project/github-project/medical-journal/mjapi/app/Controller/UserController.php, line 33]
+Trace:
+UserController::authen() - APP/Controller/UserController.php, line 33
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 485
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 186
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 161
+[main] - APP/webroot/index.php, line 92
+
+2012-10-31 14:39:09 Notice: Notice (8): Undefined variable: results in [/home/xavier/project/github-project/medical-journal/mjapi/app/View/User/authen.ctp, line 4]
+Trace:
+include - APP/View/User/authen.ctp, line 4
+View::_evaluate() - CORE/Cake/View/View.php, line 921
+View::_render() - CORE/Cake/View/View.php, line 884
+View::render() - CORE/Cake/View/View.php, line 476
+Controller::render() - CORE/Cake/Controller/Controller.php, line 956
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 161
+[main] - APP/webroot/index.php, line 92
+
+2012-10-31 14:39:16 Notice: Notice (8): Undefined variable: req in [/home/xavier/project/github-project/medical-journal/mjapi/app/Controller/UserController.php, line 33]
+Trace:
+UserController::authen() - APP/Controller/UserController.php, line 33
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 485
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 186
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 161
+[main] - APP/webroot/index.php, line 92
+
+2012-10-31 14:39:16 Notice: Notice (8): Undefined variable: msg in [/home/xavier/project/github-project/medical-journal/mjapi/app/Controller/UserController.php, line 33]
+Trace:
+UserController::authen() - APP/Controller/UserController.php, line 33
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 485
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 186
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 161
+[main] - APP/webroot/index.php, line 92
+
+2012-10-31 14:39:16 Notice: Notice (8): Undefined variable: results in [/home/xavier/project/github-project/medical-journal/mjapi/app/View/User/authen.ctp, line 4]
+Trace:
+include - APP/View/User/authen.ctp, line 4
+View::_evaluate() - CORE/Cake/View/View.php, line 921
+View::_render() - CORE/Cake/View/View.php, line 884
+View::render() - CORE/Cake/View/View.php, line 476
+Controller::render() - CORE/Cake/Controller/Controller.php, line 956
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 161
+[main] - APP/webroot/index.php, line 92
+
+2012-10-31 14:39:46 Notice: Notice (8): Undefined variable: req in [/home/xavier/project/github-project/medical-journal/mjapi/app/Controller/UserController.php, line 34]
+Trace:
+UserController::authen() - APP/Controller/UserController.php, line 34
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 485
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 186
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 161
+[main] - APP/webroot/index.php, line 92
+
+2012-10-31 14:39:46 Notice: Notice (8): Undefined variable: msg in [/home/xavier/project/github-project/medical-journal/mjapi/app/Controller/UserController.php, line 34]
+Trace:
+UserController::authen() - APP/Controller/UserController.php, line 34
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 485
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 186
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 161
+[main] - APP/webroot/index.php, line 92
+
+2012-10-31 14:53:49 Notice: Notice (8): Undefined variable: results in [/home/xavier/project/github-project/medical-journal/mjapi/app/View/User/viewalluser.ctp, line 4]
+Trace:
+include - APP/View/User/viewalluser.ctp, line 4
+View::_evaluate() - CORE/Cake/View/View.php, line 921
+View::_render() - CORE/Cake/View/View.php, line 884
+View::render() - CORE/Cake/View/View.php, line 476
+Controller::render() - CORE/Cake/Controller/Controller.php, line 956
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 161
+[main] - APP/webroot/index.php, line 92
+

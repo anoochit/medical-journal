@@ -1,0 +1,2 @@
+1351697555
+a:2:{s:4:"name";a:6:{s:32:"9b42ac4bde0e6c12fa2c6c4b6e9a5e80";s:9:"`medical`";s:32:"47eb7bb09414c64f779510914712b6ee";s:7:"`count`";s:32:"f94a437fb7858e092079378f93ef2c71";s:7:"`users`";s:32:"441e6eaad1b5f34da125c63e3ecd7702";s:17:"`User`.`username`";s:32:"46bea0d8cb0ffa1c5c7f63ad1e39035b";s:17:"`User`.`password`";s:32:"eb9b37fa6fe3e5c49f921ddcd721b306";s:6:"`User`";}s:6:"fields";a:1:{s:32:"ac6d4d741918bcfc0a5bed0d8a5893eb";a:1:{i:0;s:19:"COUNT(*) AS `count`";}}}
