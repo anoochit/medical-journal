@@ -29,7 +29,8 @@
 //	Router::connect('/', array('controller' => 'services',  ));
 
 	// json extension
-	Router::parseExtensions('json');
+	Router::parseExtensions();
+	
 /**
  * ...and connect the rest of 'Pages' controller's urls.
  */
